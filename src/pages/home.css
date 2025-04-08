@@ -1,0 +1,6 @@
+.menu-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    object-fit: cover; /* Ensure the images cover the area properly */
+  }
